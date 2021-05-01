@@ -2,10 +2,10 @@
 
 My list of resources and pages for working in UI/UX. Mi lista de recursos y páginas para trabajar en UI/UX
 
-The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers.
+The point of this is to be able to have a quick reference guide of good resources. El objetivo de esto es poder tener una guía de consulta rápida de buenos recursos.
 
 ## Table of Contents / Tabla de contenidos
-* [Designers](#designers)
+* [UX-Researchers](#ux-researches)
 * [User Research Tools](#user-research-tools)
 * [Standards and Guidelines](#standards-and-guidelines)
 * [Prototyping Tools](#prototyping-tools)
