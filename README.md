@@ -5,7 +5,7 @@ The more frictionless building great user interfaces becomes, the more the user 
 The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers.
 
 ## Table of Contents
-* [Designers](#designers)
+* [Users](#designers)
 * [User Research Tools](#user-research-tools)
 * [Standards and Guidelines](#standards-and-guidelines)
 * [Prototyping Tools](#prototyping-tools)
@@ -29,7 +29,7 @@ The aim of this is to evolve with the industry and the growing list of tools tha
 * [Version Control](#version-control)
 
 ## UX
-### Designers
+### Users
 * Helen Tran: [Twitter](https://twitter.com/tranhelen)
 * Evil Rabbit: [Twitter](https://twitter.com/evilrabbit_)
 * Ricky Rauch: [Twitter](https://twitter.com/rickyrauch)
