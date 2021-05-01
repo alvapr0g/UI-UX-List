@@ -1,11 +1,11 @@
-# My top list for UI/UX / Mi lista top para UI/UX
+# Curated list for UI/UX Designers
 
-My list of resources and pages for working in UI/UX. Mi lista de recursos y páginas para trabajar en UI/UX
+The more frictionless building great user interfaces becomes, the more the user benefits.
 
-The point of this is to be able to have a quick reference guide of good resources. El objetivo de esto es poder tener una guía de consulta rápida de buenos recursos.
+The aim of this is to evolve with the industry and the growing list of tools that are built to support UI/UX designers.
 
-## Table of Contents / Tabla de contenidos
-* [UX-Researchers](#ux-researches)
+## Table of Contents
+* [Designers](#designers)
 * [User Research Tools](#user-research-tools)
 * [Standards and Guidelines](#standards-and-guidelines)
 * [Prototyping Tools](#prototyping-tools)
@@ -29,7 +29,7 @@ The point of this is to be able to have a quick reference guide of good resource
 * [Version Control](#version-control)
 
 ## UX
-### UX-Researchers
+### Designers
 * Helen Tran: [Twitter](https://twitter.com/tranhelen)
 * Evil Rabbit: [Twitter](https://twitter.com/evilrabbit_)
 * Ricky Rauch: [Twitter](https://twitter.com/rickyrauch)
@@ -243,8 +243,3 @@ The point of this is to be able to have a quick reference guide of good resource
 * Normalize.css: [GitHub](https://github.com/necolas/normalize.css)
 * Buttons: [GitHub](https://github.com/alexwolfe/Buttons)
 * Polymer Designer: [GitHub](https://github.com/Polymer/designer)
-
-## Version Control
-* [GitKraken](https://www.gitkraken.com) - An easy-to-use, cross-platform Git client
-* [Abstract](https://www.abstractapp.com/) - Version control for designers, integrates with [Sketch](https://www.sketchapp.com/).
-* [Sketchpacks Relay](https://github.com/integration/sketchpacks-relay) - Serve your Sketch plugin updates from Github in real-time
