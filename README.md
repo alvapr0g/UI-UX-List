@@ -29,7 +29,7 @@ The point of this is to be able to have a quick reference guide of good resource
 * [Version Control](#version-control)
 
 ## UX-Researchers
-### Designers
+### UX-Researchers
 * Helen Tran: [Twitter](https://twitter.com/tranhelen)
 * Evil Rabbit: [Twitter](https://twitter.com/evilrabbit_)
 * Ricky Rauch: [Twitter](https://twitter.com/rickyrauch)
