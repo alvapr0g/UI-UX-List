@@ -6,4 +6,4 @@
 
 ## UX
 ### UX-Research
-
+* Álvaro Santana: [Twitter](https://twitter.com/alvaprog)
