@@ -28,7 +28,7 @@ The point of this is to be able to have a quick reference guide of good resource
 * [Miscellaneous Frameworks](#miscellaneous-frameworks)
 * [Version Control](#version-control)
 
-## UX
+## UX-Researchers
 ### Designers
 * Helen Tran: [Twitter](https://twitter.com/tranhelen)
 * Evil Rabbit: [Twitter](https://twitter.com/evilrabbit_)
