@@ -4,6 +4,7 @@
 * [User Research Tools](#User-Research-Tools)
 * [Usability Testing](#prototyping.tools)
 * [Specialized Tests](#Specialized.Tests)
+* [Transcription](#Transcription)
 
 ## UX
 ### User-Research Tools
