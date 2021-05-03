@@ -5,6 +5,7 @@
 * [Usability Testing](#prototyping.tools)
 * [Specialized Tests](#Specialized.Tests)
 * [Transcription](#Transcription)
+* [Video Interviews](#Video.Interviews)
 
 ## UX
 ### User-Research Tools
@@ -47,4 +48,15 @@
 * Trint: [Website](https://trint.com/)
 * Google Meet: [Website](https://meet.google.com/)
 * MeThings: [Website](https://www.descript.com/)
+* UserZoom Go: [Website](https://go.userzoom.com/login)
+* Dovetail: [Website](https://dovetailapp.com/)
+* MaxQDA: [Website](https://es.maxqda.com/#)
+
+### Video Interviews
+* BlueJeans: [Website](https://www.bluejeans.com/es)
+* GoToMeeting: [Website](https://www.gotomeeting.com/)
+* Skype: [Website](https://www.skype.com/es/features/skype-web/)
+* Zoom: [Website](https://zoom.us/meetings)
+* PlaybookUX: [Website](https://www.playbookux.com/)
+* UserTesting: [Website](https://www.usertesting.com/)
 
