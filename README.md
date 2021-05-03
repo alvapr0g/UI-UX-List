@@ -26,7 +26,6 @@
 * UserZoom: [Website](https://www.userzoom.com/es/)
 
 ### Specialized Tests
-* Living Lens: [Website](https://livinglens.tv/)
 * Wynter (free): [Website](https://wynter.com/)
 * Fable: [Website](https://makeitfable.com/)
 * Obvi (free): [Website](https://www.obvi.com/)
@@ -34,5 +33,17 @@
 * Usabilityhub: [Website](https://usabilityhub.com/)
 * Dscout: [Website](https://dscout.com/)
 * Helio.app (free): [Website](https://helio.app/)
-* Optimal Workshop (free, interesante): [Website](https://www.optimalworkshop.com/
-* 
+* Optimal Workshop (free, interesante): [Website](https://www.optimalworkshop.com/)
+
+### Transcription
+* Living Lens: [Website](https://livinglens.tv/)
+* Descript: [Website](https://www.descript.com/)
+* Fireflies.ai (free): [Website](https://fireflies.ai/)
+* Otter.ai (free): [Website](https://otter.ai/)
+* Reduct: [Website](https://reduct.video/)
+* Rev: [Website](https://www.rev.com/)
+* Temi (free, interesante): [Website](https://www.temi.com/)
+* Trint: [Website](https://trint.com/)
+* Google Meet: [Website](https://meet.google.com/)
+* MeThings: [Website](https://www.descript.com/)
+
