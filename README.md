@@ -23,3 +23,14 @@
 * Userlytics: [Website](https://www.userlytics.com/)
 * FocusVision: [Website](https://www.focusvision.com/)
 * UserZoom: [Website](https://www.userzoom.com/es/)
+
+### Specialized Tests
+* Living Lens: [Website](https://livinglens.tv/)
+* Wynter (free): [Website](https://wynter.com/)
+* Fable: [Website](https://makeitfable.com/)
+* Obvi (free): [Website](https://www.obvi.com/)
+* Useberry (free, interesante): [Website](https://www.useberry.com/)
+* Usabilityhub: [Website](https://usabilityhub.com/)
+* Dscout: [Website](https://dscout.com/)
+* Helio.app (free): [Website](https://helio.app/)
+* Voxpopme (free): [Website](https://site.voxpopme.com/)
