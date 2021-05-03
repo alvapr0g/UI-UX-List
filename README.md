@@ -8,6 +8,7 @@
 * [Video Interviews](#Video.Interviews)
 * [Repositories](#Repositories)
 * [Note-Taking](#Note-Taking)
+* [Surveys](#Surveys)
 
 ## UX
 ### User-Research Tools
@@ -75,5 +76,15 @@
 * UserVoice: [Website](https://uservoice.com/)
 
 ### Note-Taking
-* Airtable (free, interesante): [Website](https://airtable.com/)
+* Evernote (free, interesante): [Website](https://evernote.com/)
+* ConfirmKit: [Website](https://www.confirmkit.com/)
+* Dropbox-Paper (free, interesante): [Website](https://www.dropbox.com/paper)
+* Google-Drive (free, interesante): [Website](https://www.google.com/intl/es-419/drive/)
+* UserBit: [Website](https://userbitapp.com/)
+* EnjoyHQ: [Website](https://getenjoyhq.com/)
+* Grain.co (free, interesante): [Website](https://grain.co/)
+* Handrail: [Website](https://login.handrailux.com/)
+
+### Surveys
+* Evernote (free, interesante): [Website](https://evernote.com/)
 
