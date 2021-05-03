@@ -3,6 +3,7 @@
 ## Tabla de Contenidos
 * [User Research Tools](#User-Research-Tools)
 * [Usability Testing](#prototyping.tools)
+* [Specialized Tests](#Specialized.Tests)
 
 ## UX
 ### User-Research Tools
