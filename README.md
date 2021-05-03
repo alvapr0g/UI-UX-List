@@ -6,6 +6,8 @@
 * [Specialized Tests](#Specialized.Tests)
 * [Transcription](#Transcription)
 * [Video Interviews](#Video.Interviews)
+* [Repositories](#Repositories)
+* [Note-Taking](#Note-Taking)
 
 ## UX
 ### User-Research Tools
@@ -59,4 +61,19 @@
 * Zoom: [Website](https://zoom.us/meetings)
 * PlaybookUX: [Website](https://www.playbookux.com/)
 * UserTesting: [Website](https://www.usertesting.com/)
+
+### Repositories
+* Airtable (free, interesante): [Website](https://airtable.com/)
+* Aurelius: [Website](https://www.aureliuslab.com/)
+* Dedoose: [Website](https://www.dedoose.com/)
+* Delve: [Website](https://delve.office.com/)
+* Sticktail (free, interesante): [Website](https://sticktailapp.com/)
+* Trello (free, interesante): [Website](https://trello.com/es)
+* Confluence: [Website](https://www.atlassian.com/es/software/confluence)
+* Notion (free, interesante): [Website](https://www.notion.so/)
+* NVivo: [Website](https://www.qsrinternational.com/nvivo-qualitative-data-analysis-software/home/)
+* UserVoice: [Website](https://uservoice.com/)
+
+### Note-Taking
+* Airtable (free, interesante): [Website](https://airtable.com/)
 
