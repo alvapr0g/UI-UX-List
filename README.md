@@ -9,7 +9,7 @@
 * [Repositories](#Repositories)
 * [Note-Taking](#Note-Taking)
 * [Surveys](#Surveys)
-* [Automated Feedback](#Automated Feedback)
+* [Automated Feedback](#Automated.Feedback)
 * [Heatmaps, EyeTracking, SessionRecording](#Heatmaps.EyeTracking.SessionRecording)
 * [A/B Testing](#A/B.Testing)
 * [Analytics](#Analytics)
