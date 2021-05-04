@@ -12,10 +12,20 @@
 
 ## UX
 ### User-Research Tools
-* Álvaro Santana: [Twitter](https://twitter.com/alvaprog)
-* Álvaro Santana: [Twitter](https://twitter.com/alvaprog)
-* Álvaro Santana: [Twitter](https://twitter.com/alvaprog)
-* Álvaro Santana: [Twitter](https://twitter.com/alvaprog)
+* Nilesen Norman Group: [Website](https://www.nngroup.com/)
+* UX-Stack-Exchange: [Website](https://ux.stackexchange.com/)
+* UX-Myths: [Website](https://uxmyths.com/)
+
+### UX-Conferences-2021
+* Timeline: [Website](https://www.opinionx.co/blog/top-ux-research-conferences-in-2021)
+
+### UX-Videos-Podcast (Spanish)
+* Timeline: [Website](https://www.opinionx.co/blog/top-ux-research-conferences-in-2021)
+
+### UX-Videos-Podcast (English)
+* The Futur: [Youtube](https://www.youtube.com/c/thefuturishere/about)
+* Mike Locke: [Youtube](https://www.youtube.com/user/mlwebco)
+* Flux: [Youtube](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 
 ### Usability Testing
 * Applause: [Website](https://www.applause.com/)
