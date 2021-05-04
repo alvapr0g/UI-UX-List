@@ -9,6 +9,10 @@
 * [Repositories](#Repositories)
 * [Note-Taking](#Note-Taking)
 * [Surveys](#Surveys)
+* [Automated Feedback](#Automated Feedback)
+* [Heatmaps, EyeTracking, SessionRecording](#Heatmaps.EyeTracking.SessionRecording)
+* [A/B Testing](#A/B.Testing)
+* [Analytics](#Analytics)
 
 ## UX
 ### User-Research Tools
@@ -103,4 +107,64 @@
 
 ### Surveys
 * Crowd Signal (free, interesante): [Website](https://crowdsignal.com/)
+* Confirmit: [Website](https://www.confirmit.com/)
+* Alchemer (survey gizmo): [Website](https://www.alchemer.com/survey-software-features/survey-branding/)
+* SurveyMonkey: [Website](https://es.surveymonkey.com/)
+* Survicate (free, interesante): [Website](https://survicate.com/)
+* YesInsights: [Website](https://www.yesinsights.com/)
+* Google Surveys (free, interesante): [Website](https://surveys.google.com/)
+* Survey Legend (free, interesante): [Website](https://www.surveylegend.com/)
+* Typeform (free, interesante): [Website](https://www.typeform.com/)
+
+
+### Automated Feedback
+* Appcues: [Website](https://www.appcues.com/)
+* Apptentive: [Website](https://www.apptentive.com/)
+* Delighted: [Website](https://delighted.com/)
+* Gainsight: [Website](https://www.gainsight.com/)
+* Instabug: [Website](https://instabug.com/)
+* Pendo.io (free, interesante): [Website](https://www.pendo.io/)
+* Promoter.io (free, interesante): [Website](https://www.promoter.io/)
+* Tribe.so (free, interesante): [Website](https://tribe.so/)
+* Usabilia: [Website](https://usabilla.com/)
+* UserLeap (free, interesante): [Website](https://userleap.com/)
+* Userpilot: [Website](https://userpilot.com/)
+* Usersnap: [Website](https://usersnap.com/)
+* WalkMe: [Website](https://www.walkme.com/)
+* Hotjar: [Website](https://www.hotjar.com/)
+* VWO: [Website](https://vwo.com/)
+* Survicate (free, interesante): [Website](https://survicate.com/)
+* Medallia: [Website](https://www.medallia.com/)
+* Productboard: [Website](https://www.productboard.com/)
+
+### Heatmaps, EyeTracking, SessionRecording
+* Contentsquare: [Website](https://contentsquare.com/)
+* CrazyEgg: [Website](https://www.crazyegg.com/)
+* Eyequant: [Website](https://www.eyequant.com/)
+* Fullstory (free, 14 days trial): [Website](https://www.fullstory.com/)
+* Hawkeye (free, interesante): [Website](https://www.usehawkeye.com/)
+* Session Cam: [Website](https://sessioncam.com/)
+* Smartlook: [Website](https://www.smartlook.com/)
+* Tobii: [Website](https://www.tobii.com/)
+* UXCam (free, interesante): [Website](https://uxcam.com/)
+* MouseFlow (free, interesante): [Website](https://mouseflow.com/es/)
+
+### A/B Testing
+* AB Tasty: [Website](https://www.abtasty.com/es/)
+* Adobe Target: [Website](https://www.adobe.io/apis/experiencecloud/target.html)
+* Apptimize (free, interesante): [Website](https://apptimize.com/)
+* Google Optimize (free, interesante): [Website](https://optimize.withgoogle.com/)
+* LaunchDarkly: [Website](https://launchdarkly.com/)
+* Optimizely: [Website](https://www.optimizely.com/)
+* Split.io (free, interesante): [Website](https://www.split.io/)
+* Zoho PageSense: [Website](https://www.zoho.com/es-xl/)
+
+### Analytics
+* Amplitude (free, interesante): [Website](https://amplitude.com/)
+* Google Analytics: [Website](https://marketingplatform.google.com/about/)
+* Heap (free, interesante): [Website](https://heap.io/)
+* Kissmetrics: [Website](https://www.kissmetrics.io/)
+* Mixpanel: [Website](https://mixpanel.com/es/)
+
+
 
