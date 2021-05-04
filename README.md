@@ -26,6 +26,12 @@
 * The Futur: [Youtube](https://www.youtube.com/c/thefuturishere/about)
 * Mike Locke: [Youtube](https://www.youtube.com/user/mlwebco)
 * Flux: [Youtube](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
+* UX Mastery: [Youtube](https://www.youtube.com/user/uxmastery)
+* Dansky: [Youtube](https://www.youtube.com/user/ForeverDansky)
+* Neuron UX: [Youtube](https://www.youtube.com/channel/UCHy67xvpFURfYodnzKRU3fA)
+* Tutvid (interesante): [Youtube](https://www.youtube.com/user/tutvid)
+* Caler Edwards: [Youtube](https://www.youtube.com/user/CalerEdwards)
+* Laith Wallace: [Youtube](https://www.youtube.com/channel/UCnpdR3kXJgs2y8o_PNddZxQ)
 
 ### Usability Testing
 * Applause: [Website](https://www.applause.com/)
