@@ -15,7 +15,7 @@
 * [Analytics](#Analytics)
 * [Brainstorming](#Brainstorming)
 * [Wireframing](#Wireframing)
-* [Design +Prototyping](#Design.Prototyping)
+* [Design + Prototyping](#Design.Prototyping)
 * [Prototyping](#Prototyping)
 
 ## UX
