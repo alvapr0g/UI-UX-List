@@ -24,7 +24,7 @@
 * Timeline: [Website](https://www.opinionx.co/blog/top-ux-research-conferences-in-2021)
 
 ### UX-Videos-Podcast (Spanish)
-* Timeline: [Website](https://www.opinionx.co/blog/top-ux-research-conferences-in-2021)
+* Platzi: [Youtube](https://www.youtube.com/c/Platzi/playlists)
 
 ### UX-Videos-Podcast (English)
 * The Futur: [Youtube](https://www.youtube.com/c/thefuturishere/about)
