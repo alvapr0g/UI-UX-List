@@ -13,6 +13,10 @@
 * [Heatmaps, EyeTracking, SessionRecording](#Heatmaps.EyeTracking.SessionRecording)
 * [A/B Testing](#A/B.Testing)
 * [Analytics](#Analytics)
+* [Brainstorming](#Brainstorming)
+* [Wireframing](#Wireframing)
+* [Design +Prototyping](#Design.Prototyping)
+* [Prototyping](#Prototyping)
 
 ## UX
 ### User-Research Tools
@@ -165,6 +169,36 @@
 * Heap (free, interesante): [Website](https://heap.io/)
 * Kissmetrics: [Website](https://www.kissmetrics.io/)
 * Mixpanel: [Website](https://mixpanel.com/es/)
+
+### Brainstorming
+* FlowMapp (free, interesante): [Website](https://www.flowmapp.com/)
+* LucidChart (free, interesante): [Website](https://www.lucidchart.com/)
+* Miro (free, interesante): [Website](https://miro.com/es/)
+* Mural (pago, free trial): [Website](https://www.mural.co/)
+
+### Wireframing
+* Balsamiq (cloud trial, interesante): [Website](https://balsamiq.com/)
+* Whimsical (free, interesante): [Website](https://whimsical.com/)
+
+### Design + Prototyping
+* Adobe CC (cloud trial, interesante): [Website](https://www.adobe.com/cl/?mv=search&sdid=KQPRE)
+* Figma (free, interesante): [Website](https://www.figma.com/)
+* InVision (free, interesante): [Website](https://www.invisionapp.com/)
+
+### Prototyping
+* Axure (30 days trial): [Website](https://www.axure.com/)
+* Framer (free, interesante): [Website](https://www.framer.com/)
+* Marvel (free, interesante): [Website](https://marvelapp.com/)
+* Proto.io (de pago, si pasas el trial de 30 días, pasas a free): [Website](https://proto.io/)
+* ProtoPie (pago): [Website](https://www.protopie.io/)
+* UXPin (pago): [Website](https://www.uxpin.com/)
+
+
+
+
+
+
+
 
 
 
