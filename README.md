@@ -82,7 +82,7 @@
 
 ### Video Interviews
 * BlueJeans: [Website](https://www.bluejeans.com/es)
-* GoToMeeting: [Website](https://www.gotomeeting.com/)
+* GoToMeeting: [Website](https://www.gotomeeting.com/) 
 * Skype: [Website](https://www.skype.com/es/features/skype-web/)
 * Zoom: [Website](https://zoom.us/meetings)
 * PlaybookUX: [Website](https://www.playbookux.com/)
