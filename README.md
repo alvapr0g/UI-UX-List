@@ -65,6 +65,7 @@
 * Optimal Workshop (free, interesante): [Website](https://www.optimalworkshop.com/)
 
 ### Transcription
+* transcribe (free, interesante): [Website](https://transcribe.wreally.com/)
 * Living Lens: [Website](https://livinglens.tv/)
 * Descript: [Website](https://www.descript.com/)
 * Fireflies.ai (free): [Website](https://fireflies.ai/)
