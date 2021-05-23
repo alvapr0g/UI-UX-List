@@ -1,6 +1,6 @@
-# Mi lista escencial de herramientas para UI/UX
+# My essential list and tools for UI/UX
 
-## Tabla de Contenidos
+## Index of contents
 * [User Research Tools](#User-Research-Tools)
 * [Usability Testing](#prototyping.tools)
 * [Specialized Tests](#Specialized.Tests)
