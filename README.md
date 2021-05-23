@@ -90,6 +90,8 @@
 * PlaybookUX: [Website](https://www.playbookux.com/)
 * UserTesting: [Website](https://www.usertesting.com/)
 
+
+## Insight Management
 ### Repositories
 * Airtable (free, interesante): [Website](https://airtable.com/)
 * Aurelius: [Website](https://www.aureliuslab.com/)
@@ -166,6 +168,8 @@
 * Split.io (free, interesante): [Website](https://www.split.io/)
 * Zoho PageSense: [Website](https://www.zoho.com/es-xl/)
 
+
+## Passive Insights
 ### Analytics
 * Amplitude (free, interesante): [Website](https://amplitude.com/)
 * Google Analytics: [Website](https://marketingplatform.google.com/about/)
@@ -173,6 +177,8 @@
 * Kissmetrics: [Website](https://www.kissmetrics.io/)
 * Mixpanel: [Website](https://mixpanel.com/es/)
 
+
+## Design
 ### Brainstorming
 * FlowMapp (free, interesante): [Website](https://www.flowmapp.com/)
 * LucidChart (free, interesante): [Website](https://www.lucidchart.com/)
