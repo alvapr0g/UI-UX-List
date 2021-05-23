@@ -1,4 +1,4 @@
-# Mi lista top para UI/UX
+# Mi lista escencial de herramientas para UI/UX
 
 ## Tabla de Contenidos
 * [User Research Tools](#User-Research-Tools)
@@ -41,6 +41,8 @@
 * Caler Edwards: [Youtube](https://www.youtube.com/user/CalerEdwards)
 * Laith Wallace: [Youtube](https://www.youtube.com/channel/UCnpdR3kXJgs2y8o_PNddZxQ)
 
+
+## Active Research
 ### Usability Testing
 * Applause: [Website](https://www.applause.com/)
 * Maze design: [Website](https://maze.co/)
