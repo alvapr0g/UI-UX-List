@@ -184,6 +184,7 @@
 * LucidChart (free, interesante): [Website](https://www.lucidchart.com/)
 * Miro (free, interesante): [Website](https://miro.com/es/)
 * Mural (pago, free trial): [Website](https://www.mural.co/)
+* Coggle (free, interesante):[Website](https://coggle.it/)
 
 ### Wireframing
 * Balsamiq (cloud trial, interesante): [Website](https://balsamiq.com/)
