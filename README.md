@@ -32,7 +32,7 @@
 
 ### UX-Videos-Podcast (English)
 * The Futur: [Youtube](https://www.youtube.com/c/thefuturishere/about)
-* Mike Locke: [Youtube](https://www.youtube.com/user/mlwebco)
+* Mike Locke: [Youtube](https://www.youtube.com/user/mlwebco)  
 * Flux: [Youtube](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
 * UX Mastery: [Youtube](https://www.youtube.com/user/uxmastery)
 * Dansky: [Youtube](https://www.youtube.com/user/ForeverDansky)
