@@ -17,6 +17,7 @@
 * [Wireframing](#Wireframing)
 * [Design + Prototyping](#Design.Prototyping)
 * [Prototyping](#Prototyping)
+* [User Flow](#User.Flow)
 
 ## UX
 ### User-Research Tools
@@ -202,6 +203,15 @@
 * Proto.io (de pago, si pasas el trial de 30 días, pasas a free): [Website](https://proto.io/)
 * ProtoPie (pago): [Website](https://www.protopie.io/)
 * UXPin (pago): [Website](https://www.uxpin.com/) 
+
+### User Flow
+* Wireflow (open source): [Website](https://wireflow.co/)
+* Timblee (de pago): [Website](https://timblee.com/)
+* Microsoft Visio (de pago): [Website](https://www.microsoft.com/es-cl/microsoft-365/visio/flowchart-software)
+* Draw.io (free, interesante): [Website](https://app.diagrams.net/)
+* Smart draw (pago): [Website](https://www.smartdraw.com/)
+* OmniGraffle (free trial 14 días, luego pago): [Website](https://www.omnigroup.com/omnigraffle) 
+* Cacoo (2 meses grátis, luego pago): [Website](https://cacoo.com/es/) 
 
 
 
